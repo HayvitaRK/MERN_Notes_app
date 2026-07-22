@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+/* Add your custom styles below */
+@layer base {
+    body{
+    background-color: black;
+    color:pink;    
+}
+}
+
+@layer components{
+    
+}
